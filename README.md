@@ -19,7 +19,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 bash
 CopyInsert in Terminal
-git clone https://github.com/yourusername/BookReader.git
+git clone https://github.com/sachin09999/BookReader.git
 Open the project in Android Studio.
 Build the project:
 Ensure you have the latest version of Android Studio and all necessary SDKs.
